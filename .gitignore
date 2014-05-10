@@ -1,0 +1,10 @@
+# Comment
+tempfile.txt
+temfile2.txt
+*.zip
+*.gz
+log/*.log
+log/*.log.[0]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4 
